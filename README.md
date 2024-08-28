@@ -5,7 +5,8 @@
 
 # Data Sources:
 - Source: IMDB Movie (train) https://drive.google.com/file/d/1kXRv1cyi-bshxXcqRzrTxhAo_ri4kCrX/view?usp=sharing IMDB Movie (test) https://drive.google.com/file/d/1iPLdKH8YbVJAsar6a4XSDy2-e8G7m62q/view?usp=sharing
-- Tools and Technologies:
+
+# Tools and Technologies:
 Programming Language(s): Python
 
 Libraries: suprise https://surpriselib.com/, pandas, numpy, seaborn, matplotlib
